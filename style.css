@@ -1,1 +1,10 @@
+body{
+    background-color: red;
+}
 
+p{
+    color:blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
